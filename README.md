@@ -4,10 +4,9 @@ I'm a Software Engineering undergraduate with hands-on experience building web/m
 
 Explore Machine Learning and predictive modeling to turn raw data into systems that can actually make decisions. Always picking up new tools and frameworks.
 
-
 🎯 **Currently seeking a Software Engineering or Machine Learning Internship**, where I can bring my full-stack and problem-solving skills into a real-world team environment and keep growing as an engineer.
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -15,6 +14,7 @@ Explore Machine Learning and predictive modeling to turn raw data into systems t
 - **Data & ML:** scikit-learn, Pandas, NumPy, PostgreSQL, MySQL, SQLite
 - **Tools & Hardware:** Git, ESP32, AWS
 
+---
 
 ## 🚀 Featured Projects
 
@@ -26,6 +26,7 @@ Explore Machine Learning and predictive modeling to turn raw data into systems t
   - Implemented BFS-based path simulation
   - `Java` `Swing` `Graph Algorithms`
 
+---
 
 ## 📫 Connect with me
 
